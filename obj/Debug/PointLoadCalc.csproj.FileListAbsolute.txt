@@ -1,0 +1,6 @@
+C:\Users\kmorin\Documents\Visual Studio 2010\Projects\PointLoadCalc\PointLoadCalc\bin\Debug\PointLoadCalc.dll
+C:\Users\kmorin\Documents\Visual Studio 2010\Projects\PointLoadCalc\PointLoadCalc\bin\Debug\PointLoadCalc.pdb
+C:\Users\kmorin\Documents\Visual Studio 2010\Projects\PointLoadCalc\PointLoadCalc\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\kmorin\Documents\Visual Studio 2010\Projects\PointLoadCalc\PointLoadCalc\obj\Debug\PointLoadCalc.dll
+C:\Users\kmorin\Documents\Visual Studio 2010\Projects\PointLoadCalc\PointLoadCalc\obj\Debug\PointLoadCalc.pdb
+C:\Users\kmorin\Documents\Visual Studio 2010\Projects\PointLoadCalc\PointLoadCalc\bin\Debug\PointLoadCalc.dll.config
